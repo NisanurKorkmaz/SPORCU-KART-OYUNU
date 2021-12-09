@@ -42,13 +42,13 @@ public class Oyuncu {
     
     
     public void skorGoster(){
-       // System.out.println(Skor);
+
     }
     
     public int kartSec(){
-        return  (int) (Math.random() * (9 - 0 + 1)) + 0; //S böyle yazmış
+        return  (int) (Math.random() * (9 - 0 + 1)) + 0; 
     }
     
-    // KART LİSTESİ özelliği... ???
+
     ArrayList<Sporcu> oyuncukartlar = new ArrayList<Sporcu>(); // OYUNCU ARRAYLIST OLUSTURMA
 }
