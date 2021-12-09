@@ -8,9 +8,7 @@ public class Test{
     
     public static void main(String[] args) {
         
-        
-    //ArrayList<String> sporcutakimlari = new ArrayList<>();
-    //ArrayList<String> sporcuisimleri = new ArrayList<>();
+
     ArrayList<Futbolcu> futbolcuListesi = new ArrayList<>();
     ArrayList<Basketbolcu> basketbolcuListesi = new ArrayList<>();
     Basketbolcu isil = new Basketbolcu("Işıl Alben", "Basketbol");
