@@ -79,7 +79,8 @@ public class Test{
     Futbolcu rustu = new Futbolcu("Rüştü Reçber", "Futbol");
     Futbolcu metin = new Futbolcu("Metin Oktay", "Futbol");
     Futbolcu ibrahim = new Futbolcu("İbrahim Toraman", "Futbol");
-    
+        
+    //Futbolcu listesine oyuncu eklemesi yapiliyor 
     futbolcuListesi.add(cris);
     futbolcuListesi.add(muslera);
     futbolcuListesi.add(melo);
