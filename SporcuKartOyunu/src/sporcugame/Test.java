@@ -20,6 +20,7 @@ public class Test{
     Basketbolcu esra = new Basketbolcu("Esra Şencebe", "Basketbol");
     Basketbolcu bahar = new Basketbolcu("Bahar Çağlar", "Basketbol");
     
+    //Basketbolcu listesine oyuncu eklemesi yapiliyor 
     basketbolcuListesi.add(isil);
     basketbolcuListesi.add(nevriye);
     basketbolcuListesi.add(birsel);
