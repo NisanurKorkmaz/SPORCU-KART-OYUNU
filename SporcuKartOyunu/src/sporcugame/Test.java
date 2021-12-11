@@ -11,6 +11,7 @@ public class Test{
 //Futbolcu ve Basketbolcu listeleri olusturuluyor 
     ArrayList<Futbolcu> futbolcuListesi = new ArrayList<>();
     ArrayList<Basketbolcu> basketbolcuListesi = new ArrayList<>();
+ //Basketbolcular tanimlaniyor
     Basketbolcu isil = new Basketbolcu("Işıl Alben", "Basketbol");
     Basketbolcu nevriye = new Basketbolcu("Nevriye Yılmaz", "Basketbol");
     Basketbolcu birsel = new Basketbolcu("Birsel Vardarlı", "Basketbol");
@@ -70,7 +71,7 @@ public class Test{
     bahar.setSerbestAtis(50);
     bahar.setIcon("bahar.jpg");
     
-   
+    //Futbolcular tanimlaniyor
     Futbolcu cris = new Futbolcu("Cristiano Ronaldo", "Futbol");
     Futbolcu muslera = new Futbolcu("Fernando Muslera", "Futbol");
     Futbolcu melo = new Futbolcu("Felipe Melo", "Futbol");
