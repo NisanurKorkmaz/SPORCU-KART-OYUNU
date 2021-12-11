@@ -142,7 +142,7 @@ public class Test{
      
     }
     
-   
+   //Ortaya atilan kartlarin hangi pozisyonda karsilastirilacaklari belirleniyor 
     public int pozisyonBilgisi(Sporcu name){
   
         return ((int)((Math.random())*10))%(3);
